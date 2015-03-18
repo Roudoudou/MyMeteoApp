@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyMeteoApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_activity_async_task">activity_async_task</string>
+    <string name="title_activity_charge_json">Ma Position</string>
+    <string name="title_activity_add_favorites">AddFavoritesActivity</string>
+    <string name="title_activity_favorites">FavoritesActivity</string>
+    <string name="title_activity_methods">Methods</string>
+    <string name="title_activity_detailed_weather_for_one">DetailedWeatherForOneActivity</string>
+    <string name="title_activity_my_position">MyPositionActivity</string>
+
+</resources>
